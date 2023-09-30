@@ -71,11 +71,7 @@ group :test do
   gem "webdrivers"
 end
 
-<<<<<<< HEAD
 gem 'pry-rails'
 group :production do
   gem 'pg'
 end
-=======
-gem 'pry-rails'
->>>>>>> parent of b8f3261 (デプロイ)
